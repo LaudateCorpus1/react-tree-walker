@@ -15,5 +15,3 @@ coverage
 flow-coverage
 flow-typed
 
-# Build output
-dist
